@@ -1,0 +1,15 @@
+{
+   "results":[
+      {
+         "name":"Werkstatt Müller",
+         "price":"150,00€",
+         "owner":"Peter Müller",
+         "location":{
+            "postal_code":"54321",
+            "street":"Hauptstraße 1",
+            "city":"Berlin",
+            "country":"Germany"
+         }
+      }
+   ]
+}
